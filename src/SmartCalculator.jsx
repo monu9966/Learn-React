@@ -302,7 +302,7 @@ function SmartCalculator() {
                         0
                     </button>
 
-                    <button onClick={handleCalculate} className="col-span-2 bg-green-500 hover:bg-green-600 text-white rounded-xl h-14 cursor-pointer font-bold">
+                    <button onClick={handleCalculate} className="col-span-2  bg-green-500 hover:bg-green-600 text-white rounded-xl h-14 cursor-pointer font-bold">
                         =
                         </button>    
                 </div>
